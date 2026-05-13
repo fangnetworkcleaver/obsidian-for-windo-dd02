@@ -1,4 +1,4 @@
-# 
+# Enhance Obsidian for Windows with updated Obsidian for Windows Script | OCR-support + wiki-style-links, the #1 script. Includes OCR-support and wiki-style-links for a smoother and
 
 
 
